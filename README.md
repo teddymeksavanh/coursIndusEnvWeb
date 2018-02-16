@@ -1,6 +1,6 @@
 # PokemonNG2
 
-PokemonNG2 is a project using Angular2.
+PokemonNG2 is a project using Angular 4.
 
 ![Overview](https://github.com/teddymeksavanh/PokemonNG2/blob/feature/filterPokemonByType/projectpokemon/src/assets/site1.png)
 
