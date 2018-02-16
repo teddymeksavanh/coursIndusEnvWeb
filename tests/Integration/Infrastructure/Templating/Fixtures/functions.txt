@@ -1,3 +1,0 @@
-/uploads/picture.png
-/assets/picture.png
-dashboard
