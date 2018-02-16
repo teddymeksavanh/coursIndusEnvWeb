@@ -2,8 +2,11 @@
 
 PokemonNG2 is a project using Angular2.
 
-![Overview](https://github.com/teddymeksavanh/PokemonNG2/blob/feature/filterPokemonByType/projectpokemon/src/assets/site1.png)  
-[![Build Status](https://travis-ci.org/t/opencfp.svg?branch=master)](https://travis-ci.org/teddymeksavanh/coursIndusEnvWeb)
+![Overview](https://github.com/teddymeksavanh/PokemonNG2/blob/feature/filterPokemonByType/projectpokemon/src/assets/site1.png)
+
+[![Build Status](https://travis-ci.org/teddymeksavanh/coursIndusEnvWeb.svg?branch=master)](https://travis-ci.org/teddymeksavanh/coursIndusEnvWeb)
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1603d3eaeb2f4c448cfef1fa49443453)](https://www.codacy.com/app/teddymeksavanh/coursIndusEnvWeb?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=teddymeksavanh/coursIndusEnvWeb&amp;utm_campaign=Badge_Grade)
 
 Current release: v1.4.1
 
