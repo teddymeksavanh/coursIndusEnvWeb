@@ -6,7 +6,6 @@ before_script:
 - composer install
 script:
 - docker run --rm -v $PWD:/app phpqa/phpcs ./classes
-- docker run --rm -v $PWD:/app phpqa/php-cs-fixer fix --dry-run --show-progress=estimating --verbose
 - docker run --rm -v $PWD:/app phpqa/security-checker security:check
 notifications:
   email:
